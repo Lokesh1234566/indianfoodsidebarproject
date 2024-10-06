@@ -1,0 +1,44 @@
+{
+  "diseasesNavigatemenu": [
+    {
+      "title": "RHEUMATOID ARTHRITS",
+      "submenu1": "Ayurveda",
+      "submenu2": "Sidda",
+      "submenu3": "Unani",
+      "submenu4": "Homeopathy"
+    },
+    {
+      "title": "OSTEOPOROSIS",
+      "submenu1": "Ayurveda",
+      "submenu2": "Sidda",
+      "submenu3": "Unani",
+      "submenu4": "Homeopathy"
+    },
+    {
+      "title": "OSTEOARTHRITIS",
+      "submenu1": "Ayurveda",
+      "submenu2": "Sidda",
+      "submenu3": "Homeopathy"
+    },
+    {
+      "title": "BRONCHITIS",
+      "submenu1": "Ayurveda",
+      "submenu2": "Sidda",
+      "submenu3": "Unani",
+      "submenu4": "Homeopathy"
+    },
+    {
+      "title": "BRONCHIAL ASTHMA",
+      "submenu1": "Ayurveda",
+      "submenu2": "Sidda",
+      "submenu3": "Unani",
+      "submenu4": "Homeopathy"
+    },
+    {
+      "title": "DIARRHOEA",
+      "submenu1": "Sidda",
+      "submenu2": "Unani",
+      "submenu3": "Homeopathy"
+    }
+  ]
+}
