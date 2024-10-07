@@ -3,7 +3,6 @@ import React from "react";
 import { HiMenu } from "react-icons/hi";
 
 const Header = ({ toggleSidebar, selectedItem }) => {
-  // Extracting the selected item's title if available
   const selectedTitle = selectedItem && selectedItem[0]?.title;
 
   return (
