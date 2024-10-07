@@ -7,7 +7,7 @@ const Header = ({ toggleSidebar, selectedItem }) => {
   const selectedTitle = selectedItem && selectedItem[0]?.title;
 
   return (
-    <header className="w-full bg-[#33eaff] flex items-center justify-between px-4 py-2 fixed md:static z-40">
+    <header className="w-full bg-[#33eaff] flex items-center justify-between px-4 py-2 fixed md:static z-40 font-b">
       <div className="md:hidden">
         <button onClick={toggleSidebar} aria-label="Toggle Sidebar">
           <HiMenu className="w-6 h-6 text-blue-900" />

@@ -8,14 +8,13 @@ const SideBarComp = ({
   closeSidebar,
   tablemenudetails,
 }) => {
-  // Add tablemenudetails here
   const [openCollapse, setOpenCollapse] = useState(null);
   const [selectedItem, setSelectedItem] = useState(null);
 
   const handleItemClick = (collapseTitle, submenuKey, itemLabel, itemData) => {
     setOpenCollapse(openCollapse === collapseTitle ? null : collapseTitle);
     setSelectedItem(submenuKey);
-    setSelectedSidebarItem(itemData); // Pass the item data to parent component
+    setSelectedSidebarItem(itemData);
 
     if (window.innerWidth < 768) {
       closeSidebar();
@@ -23,15 +22,18 @@ const SideBarComp = ({
   };
 
   return (
-    <div className="mt-10 flex flex-col overflow-y-auto md:mt-0">
-      {/* Sidebar for mobile with mt-[5px], reset for desktop */}
+    <div className="md:mt-0 h-screen flex flex-col overflow-y-auto">
       <Sidebar className="w-full">
         <Sidebar.Items>
           <Sidebar.ItemGroup>
             {itemdata.heading_details.map((heading, id) => (
               <Sidebar.Collapse
                 key={id}
-                label={heading.Title}
+                label={
+                  <span className="whitespace-normal break-words">
+                    {heading.Title}
+                  </span>
+                } // Ensure the label text wraps
                 open={openCollapse === heading.Title}
                 onClick={() =>
                   setOpenCollapse(
@@ -53,7 +55,7 @@ const SideBarComp = ({
                           heading.Title,
                           submenuKey,
                           heading[submenuKey],
-                          tablemenudetails[heading.Title][heading[submenuKey]] // Use the passed prop here
+                          tablemenudetails[heading.Title][heading[submenuKey]]
                         )
                       }
                       style={{
