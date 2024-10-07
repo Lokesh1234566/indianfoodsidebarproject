@@ -1,0 +1,42 @@
+"Carotenoids": {
+    "Lutein": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Zeaxanthin": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Lycopene": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Cryptoxanthin": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "y-Carotene": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "a-Carotene": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "13-Carotene": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Total Carotenoids": [
+      {
+        "paragraph": ""
+      }
+    ]
+  },

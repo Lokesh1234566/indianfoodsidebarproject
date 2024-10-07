@@ -1,0 +1,52 @@
+"Organic Acids": {
+    "Total Oxalate": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Soluble Oxalate": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Insoluble Oxlate": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Cls-Aconltlc Acid": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Citric Acid": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Fumarlc Acid": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Malllc Acid": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Qulnlc Acid": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Succlnlc Acid ": [
+      {
+        "paragraph": ""
+      }
+    ],
+    "Tartaric Acid": [
+      {
+        "paragraph": ""
+      }
+    ]
+  },

@@ -1,0 +1,37 @@
+ "Starch and Individual Sugars": {
+    "Tota Available Carbohydrates": [
+      {
+        "paragraph": "Ayurvedic name: <span class = \"font-bold text-blue-500\">Amavata</span> <br/><br/>Due to the hypo-functioning of ushma (Agni), the first dhatu viz. the rasa or chyle, is         not properly formed and the anna-rasa undergoes fermentation or putrefaction (dushta) being retained in the amashaya. This state of rasa is 'Ama' where the impaired vatadi doshas being mixed up with one another lead to the ama-dosha- According to Vagbhata (A .H. Su. 13/25). The disease amavata is formed due to such vitiated ama-doshas. Madhav-nidana explains this disease descriptively Rheumatoid arthritis (RA) is a long-term disease that leads to inflammation of the joints and surrounding tissues. It can also affect other organs."
+      }
+    ],
+    "Total Starch": [
+      {
+        "paragraph": "<span class = \"font-bold text-blue-500\"> Santhu Vatha Soolai </span>(Rheumatoid Arthritis) is a disease, which mainly affects the joints <span class = \"font-bold text-blue-500\">(santhu)</span> by vitiating the vatha humour (vatha) resulting in severe pain <span class = \"font-bold text-blue-500\">(soolai).</span>"
+      }
+    ],
+    "Fructose": [
+      {
+        "paragraph": "<h1>Total Ash in Food: Uses, Deficiency Effects, and Toxicity</h1> <div class=\"section\">     <h2>Uses of Total Ash (Minerals) in the Human Body</h2>     <ul>         <li><strong>Bone Health:</strong> Minerals like calcium, phosphorus, and magnesium found in total ash help maintain strong bones and teeth.</li>         <li><strong>Electrolyte Balance and Fluid Regulation:</strong> Sodium, potassium, and chloride regulate fluid balance and support nerve and muscle function.</li>         <li><strong>Oxygen Transport:</strong> Iron, derived from total ash, is essential for forming hemoglobin, which transports oxygen in the blood.</li>         <li><strong>Enzyme Function and Metabolic Support:</strong> Zinc, copper, and selenium act as cofactors for enzymes, supporting metabolism and immune function.</li>         <li><strong>Antioxidant Function:</strong> Trace minerals like selenium and manganese support antioxidant defenses, protecting cells from oxidative damage.</li>     </ul> </div>  <div class=\"section\">     <h2>Effects of Mineral Deficiency (Low Ash Content)</h2>     <ul>         <li><strong>Weak Bones and Osteoporosis:</strong> Calcium and magnesium deficiencies can lead to weak bones and a higher risk of osteoporosis.</li>         <li><strong>Electrolyte Imbalance:</strong> A lack of sodium, potassium, or chloride can result in muscle cramps, weakness, or severe heart issues.</li>         <li><strong>Anemia:</strong> Iron deficiency causes anemia, leading to fatigue, weakness, and poor oxygen transport.</li>         <li><strong>Immune System Impairment:</strong> Insufficient zinc or selenium intake weakens immune responses and increases susceptibility to infections.</li>         <li><strong>Cognitive and Growth Issues:</strong> In children, low intake of minerals like iodine and zinc can cause developmental delays and cognitive impairments.</li>     </ul> </div>  <div class=\"section\">     <h2>Adverse Effects of Excessive Mineral Intake (High Ash Content)</h2>     <ul>         <li><strong>Kidney Stones:</strong> Excess calcium may lead to kidney stones and impair absorption of other minerals like iron.</li>         <li><strong>Hypertension (High Blood Pressure):</strong> Too much sodium can cause hypertension, increasing the risk of heart disease and stroke.</li>         <li><strong>Toxicity:</strong> Excessive intake of minerals like iron, zinc, or selenium can lead to toxicity, with symptoms ranging from organ damage to hair loss and digestive issues.</li>         <li><strong>Impaired Nutrient Absorption:</strong> Excessive intake of certain minerals can interfere with the absorption of other essential nutrients.</li>     </ul> </div>  <div class=\"section\">     <h2>Conclusion</h2>     <p>The total ash content in food indicates its mineral composition, which is vital for several physiological processes. While mineral deficiencies can lead to serious health issues, excessive intake can also have negative effects, including toxicity and nutrient imbalances. Maintaining a balanced diet with a variety of mineral-rich foods is essential for optimal health.</p> </div>"
+      }
+    ],
+    "Glucose": [
+      {
+        "paragraph": "<span class = \"font-bold text-blue-500\">Wajaul Mafasil </span>(Rheumatoid arthritis) is an inflammation of one or more joints associated with pain. It may be Balghami (phlegmatic) or Damavi (sanguine) and Murakkab (compound) acoording to predominance of Akhlat (humours)."
+      }
+    ],
+    "Sucrose": [
+      {
+        "paragraph": "<span class = \"font-bold text-blue-500\">Wajaul Mafasil </span>(Rheumatoid arthritis) is an inflammation of one or more joints associated with pain. It may be Balghami (phlegmatic) or Damavi (sanguine) and Murakkab (compound) acoording to predominance of Akhlat (humours)."
+      }
+    ],
+    "Maltose": [
+      {
+        "paragraph": "<span class = \"font-bold text-blue-500\">Wajaul Mafasil </span>(Rheumatoid arthritis) is an inflammation of one or more joints associated with pain. It may be Balghami (phlegmatic) or Damavi (sanguine) and Murakkab (compound) acoording to predominance of Akhlat (humours)."
+      }
+    ],
+    "Total Free Sugars": [
+      {
+        "paragraph": "<span class = \"font-bold text-blue-500\">Wajaul Mafasil </span>(Rheumatoid arthritis) is an inflammation of one or more joints associated with pain. It may be Balghami (phlegmatic) or Damavi (sanguine) and Murakkab (compound) acoording to predominance of Akhlat (humours)."
+      }
+    ]
+  }
